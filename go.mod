@@ -1,3 +1,3 @@
-module github.com/u1ug/arrtillery/v1
+module github.com/oppositemc/arrtillery
 
 go 1.22.1
